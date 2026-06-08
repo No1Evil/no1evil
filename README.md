@@ -1,4 +1,4 @@
-# 💻 Tech Stack:
+# Tech Stack
 <!-- Languages -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,7 +32,9 @@
 [![Display Server: Wayland](https://img.shields.io/badge/Display_Server-Wayland-124976?style=flat-square&logo=wayland&logoColor=white)](https://wayland.freedesktop.org/)
 [![WM: Hyprland](https://img.shields.io/badge/WM-Hyprland-33ccff?style=flat-square&logo=hyprland&logoColor=white)](https://hyprland.org/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=no1evil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=no1evil&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages" />
+</p>

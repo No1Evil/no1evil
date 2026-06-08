@@ -11,15 +11,9 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-<!-- Hosting & Saas  -->
-
-<!-- Libraries & Plathorms -->
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) <!-- Likely a framework :D -->
-
-<!-- Servers -->
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-<!-- Databases -->
+<!-- Hosting & Saas  --> <!-- Libraries & Plathorms -->
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) <!-- Likely a framework :D --> <!-- Servers -->
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <!-- Databases -->
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
@@ -30,12 +24,13 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
-<!-- Testing -->
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
+<!-- Code styles -->
+[![code style: google](https://img.shields.io/badge/code_style-google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/styleguide)
+[![code style: IntelliJ](https://img.shields.io/badge/CODE_STYLE-INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/help/idea/configuring-code-style.html)
 
-<!-- Tools -->
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+[![OS: Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Display Server: Wayland](https://img.shields.io/badge/Display_Server-Wayland-124976?style=flat-square&logo=wayland&logoColor=white)](https://wayland.freedesktop.org/)
+[![WM: Hyprland](https://img.shields.io/badge/WM-Hyprland-33ccff?style=flat-square&logo=hyprland&logoColor=white)](https://hyprland.org/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

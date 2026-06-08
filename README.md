@@ -35,8 +35,8 @@
 [![WM: Hyprland](https://img.shields.io/badge/WM-Hyprland-33ccff?style=flat-square&logo=hyprland&logoColor=white)](https://hyprland.org/)
 
 # GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=no1evil&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" width="300" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=no1evil&theme=dark&hide_border=false" height="150" width="350" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=no1evil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" width="300" alt="Top Languages" />
 </p>

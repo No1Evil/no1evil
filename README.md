@@ -35,8 +35,8 @@
 [![WM: Hyprland](https://img.shields.io/badge/WM-Hyprland-33ccff?style=flat-square&logo=hyprland&logoColor=white)](https://hyprland.org/)
 
 # GitHub Stats
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px; max-width: 200.8px; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=no1evil&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues,contribs&bg_color=00000000" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=no1evil&theme=algolia&hide_border=true&background=FFFFFF00" height="150" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=no1evil&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,html,php" height="150"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=no1evil&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues,contribs&bg_color=00000000" height="150" alt="GitHub Stats" style="display: inline-block; margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=no1evil&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,html,php" height="150" style="display: inline-block; margin: 5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=no1evil&theme=algolia&hide_border=true&background=FFFFFF00" height="150" alt="GitHub Streak" style="display: inline-block; margin: 5px;" />
+</div>
